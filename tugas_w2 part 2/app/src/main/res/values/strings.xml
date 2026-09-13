@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ID Card Mahasiswa</string>
+    <string name="label_nama">Nama</string>
+    <string name="label_nrp">NRP</string>
+    <string name="label_prodi">Program Studi</string>
+    <string name="value_nama">Daniel Dhaniswara</string>
+    <string name="value_nrp">5053251032</string>
+    <string name="value_prodi">Rekayasa Perangkat Lunak</string>
+    <string name="campus_name">Institut Teknologi Sepuluh Nopember</string>
+</resources>
