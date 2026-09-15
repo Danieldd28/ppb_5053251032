@@ -3,7 +3,7 @@
     <application
         android:allowBackup="true"
         android:label="Happy Birthday"
-        android:theme="@style/Theme.Material3.DayNight.NoActionBar">
+        android:theme="@style/Theme.HappyBirthday">
         <activity
             android:name=".MainActivity"
             android:exported="true">
