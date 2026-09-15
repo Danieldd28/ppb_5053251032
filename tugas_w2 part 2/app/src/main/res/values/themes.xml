@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.IDCardMahasiswa" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/card_primary</item>
-        <item name="colorPrimaryDark">@color/card_primary_dark</item>
+    <style name="Theme.IDCardMahasiswa" parent="android:Theme.Material.Light.NoActionBar">
         <item name="android:windowBackground">@color/screen_background</item>
     </style>
 </resources>
